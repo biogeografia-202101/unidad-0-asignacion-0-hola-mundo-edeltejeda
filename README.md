@@ -37,6 +37,6 @@ Tan pronto hayas verificado que estás trabajando en tu repo, haz una modificaci
 
 3. En modo edición, escribe tus nombres y apellidos, sustituyendo los puntos suspensivos que verás a continuación por tu respuesta:
 
-  * Tu respuesta aquí: En espera de Asignación de Temas o Planta para Manuscrito.
+  * Tu respuesta aquí: Edel Tejeda Nova
   
 4. Al finalizar, ve al fondo y presiona `Commit changes`.
